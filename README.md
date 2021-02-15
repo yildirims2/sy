@@ -1,2 +1,2 @@
 # sy
-My assignments while learning python(freshman year fall semester)
+My assignments while learning python
